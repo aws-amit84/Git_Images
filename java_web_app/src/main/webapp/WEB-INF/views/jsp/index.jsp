@@ -22,6 +22,7 @@
 <div class="jumbotron">
 	<div class="container">
 		<h1>${title}</h1>
+		<h1>Welcome to Git</h1>
 		<p>
 			<c:if test="${not empty msg}">
 				Hello ${msg}
